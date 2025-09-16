@@ -38,7 +38,7 @@ export function FaqSection() {
     <section id="faq" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="mb-4">Frequently Asked Questions</h2>
+          <h1 className="mb-4">Frequently Asked Questions</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Find answers to common questions about msgcraft.
           </p>

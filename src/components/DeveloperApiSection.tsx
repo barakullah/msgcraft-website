@@ -52,9 +52,9 @@ export function DeveloperApiSection() {
     <section className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-4">
+          <h1 className="mb-4">
             Start Building with MsgCraft — Your WhatsApp Messaging Engine
-          </h2>
+          </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             MsgCraft gives you a powerful REST API to integrate WhatsApp into
             any workflow — whether it’s apps, CRMs, or support systems. Built

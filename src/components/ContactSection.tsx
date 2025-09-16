@@ -9,7 +9,7 @@ export function ContactSection() {
     <section id="contact" className="py-20">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="mb-4">Let's Stay Connected</h2>
+          <h1 className="mb-4">Let's Stay Connected</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Have questions? Get in touch with our support team.
           </p>

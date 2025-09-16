@@ -7,7 +7,7 @@ export function PricingSection() {
     <section id="pricing" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="mb-4">Simple & Transparent Pricing</h2>
+          <h1 className="mb-4">Simple & Transparent Pricing</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Choose the plan that works best for your business needs.
           </p>

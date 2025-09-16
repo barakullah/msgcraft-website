@@ -79,7 +79,7 @@ axios.post(url, payload, { headers })
     <section id="tutorials" className="py-20">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="mb-4">Get Started in Minutes</h2>
+          <h1 className="mb-4">Get Started in Minutes</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Choose your preferred programming language and start sending
             messages right away.
