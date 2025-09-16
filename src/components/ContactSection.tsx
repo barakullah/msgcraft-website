@@ -44,16 +44,6 @@ export function ContactSection() {
                 <p className="text-muted-foreground">support@msgcraft.com</p>
               </CardContent>
             </Card>
-
-            <Card>
-              <CardContent className="p-6">
-                <h3 className="mb-2">Documentation</h3>
-                <p className="text-muted-foreground mb-4">
-                  Check out our comprehensive guides and API documentation.
-                </p>
-                <Button variant="outline">View Docs</Button>
-              </CardContent>
-            </Card>
           </div>
         </div>
       </div>
