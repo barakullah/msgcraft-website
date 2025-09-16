@@ -34,10 +34,14 @@ export function Header() {
         </nav>
 
         <div className="flex items-center space-x-2">
-          <Button variant="ghost" size="sm">
+          <a
+            href="https://crm.msgcraft.net"
+            target="_blank"
+            variant="ghost"
+            size="sm"
+          >
             Sign In
-          </Button>
-          <Button size="sm">Start Free Trial</Button>
+          </a>
         </div>
       </div>
     </header>

@@ -13,10 +13,18 @@ export function HeroSection() {
               API built for businesses and developers.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button size="lg">Start Now</Button>
-              <Button variant="outline" size="lg">
-                View Pricing
-              </Button>
+              <a
+                href="https://crm.msgcraft.net"
+                className="bg-primary text-primary-foreground hover:bg-primary/90 h-10 rounded-md px-6 has-[>svg]:px-4 flex items-center"
+              >
+                Start Now
+              </a>
+              <a
+                href="#pricing"
+                className="border bg-background text-foreground hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 rounded-md px-6 has-[>svg]:px-4 flex items-center"
+              >
+                View pricing
+              </a>
             </div>
           </div>
 
